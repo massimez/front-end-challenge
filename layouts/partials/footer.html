@@ -1,0 +1,20 @@
+      </main>
+
+      <footer id='footer' class='footer'>
+        <div class='container sep-before'>
+          {{- $footerWidgets := .Site.Params.widgets.footer -}}
+          {{- partial "extras/widget_area" ( dict "Widgets" $footerWidgets "Scope" . ) -}}
+          {{ partial "footer/copyright" . }}
+        </div>
+        <div class="embedsocial-hashtag" data-ref="a8c8b3e89f9a5a1fbf50a98770cbff741ad6560b" style="max-width: 1200px;"></div>
+        <script>(function(d, s, id){var js; if (d.getElementById(id)) {return;} js = d.createElement(s); js.id = id; js.src = "https://embedsocial.com/cdn/ht.js"; d.getElementsByTagName("head")[0].appendChild(js);}(document, "script", "EmbedSocialHashtagScript"));</script>
+      </footer>
+
+    </div>
+  </div>
+
+  {{- partial "footer/scripts" . -}}
+
+</body>
+
+</html>
