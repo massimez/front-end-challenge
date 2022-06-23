@@ -11,7 +11,7 @@ tags:
   - 'first steps'
 ---
 
-![Remote Work](/img/lifestyle/remote-office.jpg)
+![Remote Work](/img/remote-work/remote.png)
 
 Don’t expect to transfer the norms of co-located corporations into a work-from-anywhere scenario. When working in a fully-remote company, people are free from commuting and colleagues’ questionable music choices. You can work from wherever you want, whenever you want. However, remote work requires self-discipline. Everyone needs to document their work, and fully commit to writing knowledge down.
 
