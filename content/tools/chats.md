@@ -11,7 +11,7 @@ tags:
   - 'first steps'
 ---
 
-Corporate chats
+![Chats](/img/tools/chats.png)
 
 Hygge Companies stick to [asynchronous communication](https://hygge.work/communication/async/). This means that out of all the communication channels, they choose those where people don’t have to be present at the same time or in the same space, either physically or virtually.
 
