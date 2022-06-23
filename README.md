@@ -3,8 +3,8 @@
 ## Pulling
 
 ```
-git clone git@github.com:1712n/hygge.git
-cd hygge
+git clone git@github.com:1712n/front-end-challenge.git
+cd front-end-challenge
 git submodule update --recursive --init
 ```
 
