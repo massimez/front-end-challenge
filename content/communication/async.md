@@ -13,7 +13,7 @@ tags:
   - 'HR processes'
 ---
 
-![Async](/img/communication/async.jpg)
+![Async](/img/communication/async.png)
 
 # No Work Hours
 
