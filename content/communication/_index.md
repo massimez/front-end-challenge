@@ -11,7 +11,7 @@ tags:
   - 'first steps'
 ---
 
-![Structure](/img/communication/structure.jpg)
+![Communication](/img/communication/communication.png)
 
 **If it's not in GitHub, it never happened** Hygge Companies preserve all substantive conversations and discussions in the issue tracker, so they have the entire history of their projects in one place. All arrangements made outside the issue tracker (calls, messengers, email, etc.) are to be duplicated in issues or wikis. It is also essential to reply promptly to all requests on GitHub. Generally, Hygge Culture frowns upon work-related one-on-one conversations and reserves them for administrative, personal, and team-building matters.
 
